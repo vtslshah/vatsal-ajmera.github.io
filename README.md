@@ -1,4 +1,4 @@
-🚀 **Hello Folks, I'm Vatsal Ajmera – Full-Stack Developer Extraordinaire!** 🚀
+🚀 **Hello Folks, I'm Vatsal Shah – Full-Stack Developer Extraordinaire!** 🚀
 
 With **3+ years of experience**, I've mastered the art of building powerful, scalable web applications using the latest technologies. Here's what I bring to the table:
 
